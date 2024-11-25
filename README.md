@@ -1,5 +1,6 @@
-<img src="https://github.com/YummyJOJO/YummyJOJO/blob/master/image.jpg" align = "center" width = "400"/>
-
+<p align = "center">
+<img src="https://github.com/YummyJOJO/YummyJOJO/blob/master/image.jpg" align = "center" width = "40%"/>
+</p>
 <p><em>A PhD student majoring in Computer Science. 😊</br>
 </em></p>
 

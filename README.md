@@ -1,4 +1,4 @@
-<!-- --> <img src=" "/>
+<img src="https://github.com/YummyJOJO/YummyJOJO/blob/master/image.jpg"/>
 
 <p><em>A PhD student majoring in Computer Science. 😊</br>
 </em></p>

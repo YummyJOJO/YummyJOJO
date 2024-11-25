@@ -1,4 +1,4 @@
-<img src="https://github.com/YummyJOJO/YummyJOJO/blob/master/image.jpg"/>
+<img src="https://github.com/YummyJOJO/YummyJOJO/blob/master/image.jpg#pic_center = 600*600"/>
 
 <p><em>A PhD student majoring in Computer Science. 😊</br>
 </em></p>

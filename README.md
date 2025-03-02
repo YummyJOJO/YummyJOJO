@@ -28,14 +28,6 @@ const aboutMe = {
 };
 ```
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YummyJOJO/YummyJOJO/output/snake.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YummyJOJO/snake-gen/output/snake.svg">
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/YummyJOJO/snake-gen/output/snake.svg">
-</picture>
-
-![GitHub Snake Light](https://raw.githubusercontent.com/YummyJOJO/snake-gen/output/snake.svg)
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YummyJOJO/YummyJOJO/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YummyJOJO/YummyJOJO/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YummyJOJO/YummyJOJO/output/github-contribution-grid-snake.svg">

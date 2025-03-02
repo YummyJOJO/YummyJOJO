@@ -1,0 +1,22 @@
+name: generate snake
+on:
+  schedule: 
+    - cron: "0 0 * * *"  # 每天定时更新
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: generate snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: dist/snake.svg
+      - name: push snake.svg to the output branch
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          branch: output
+          force: true
+          files: dist/snake.svg

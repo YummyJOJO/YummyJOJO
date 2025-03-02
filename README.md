@@ -23,8 +23,8 @@ const aboutMe = {
       databases: ["MongoDB", "mySQL", "SQLServer"],
       mobile: ["Android", "IOS"]
    },
-   currentOccupation: ["last year student, open for job opportunities"],
-   challenge: "I'm working towards being able to run a marathon.",
+   currentOccupation: ["Phd student, open for job opportunities"],
+   challenge: "I'm working towards being able to body building.",
 };
 ```
 <picture>

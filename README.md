@@ -33,5 +33,7 @@ const aboutMe = {
   <img alt="GitHub Snake" src="https://raw.githubusercontent.com/YummyJOJO/snake-gen/output/snake.svg">
 </picture>
 
+![GitHub Snake Light](https://raw.githubusercontent.com/YummyJOJO/snake-gen/output/snake.svg)
+
 
 _generated with [Platane/snk](https://github.com/Platane/snk)_

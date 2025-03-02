@@ -12,7 +12,7 @@ jobs:
       - name: generate snake
         uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: ${{ YummyJOJO}}
           outputs: dist/snake.svg
       - name: push snake.svg to the output branch
         uses: ad-m/github-push-action@v0.6.0

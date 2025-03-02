@@ -28,9 +28,9 @@ const aboutMe = {
 };
 ```
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YummyJOJO/YummyJOJO/output/snake.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YummyJOJO/YummyJOJO/output/snake.svg">
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/YummyJOJO/YummyJOJO/output/snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YummyJOJO/snake-gen/output/snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YummyJOJO/snake-gen/output/snake.svg">
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/YummyJOJO/snake-gen/output/snake.svg">
 </picture>
 
 
